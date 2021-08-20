@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="open_a_website">Open a website</string>
+    <string name="share">Share this text with:</string>
+</resources>
